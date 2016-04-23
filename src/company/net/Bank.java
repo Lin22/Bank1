@@ -5,7 +5,7 @@ public class Bank{
 
     public String mercury="Mercury";
 
-    public static class Account
+    public class Account
     {
         public int account=123456;
 
